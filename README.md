@@ -17,4 +17,3 @@
 | related      | List web pages that are “similar” to a specified web page. | `related:www.google.com` |
 | cache      | Shows the version of the web page that Google has in its cache. | `cache:www.google.com` |
 
-## Examples
